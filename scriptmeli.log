@@ -1,50 +1,50 @@
-2021-03-10 10:37:17,543 : INFO : El producto con id:MLA863267784 titulo: Monitor Dell P2018h Led 20  Negro 100v/240v categoria_id: MLA14407 precio: 37999
-2021-03-10 10:37:17,544 : INFO : El producto con id:MLA843116615 titulo: Monitor Dell P2419h Led 24  Negro 100v/240v categoria_id: MLA14407 precio: 38499
-2021-03-10 10:37:17,544 : INFO : El producto con id:MLA906171057 titulo: Router Linksys Ea-series Ea6100  Negro 100v/240v categoria_id: MLA430901 precio: 9170
-2021-03-10 10:37:17,544 : INFO : El producto con id:MLA884736096 titulo: Router Cisco Rv Series Rv340  Negro 100v/240v categoria_id: MLA430901 precio: 37199
-2021-03-10 10:37:17,544 : INFO : El producto con id:MLA884735636 titulo: Router Cisco Rv Series Rv345  Negro 100v/240v categoria_id: MLA430901 precio: 47499
-2021-03-10 10:37:17,544 : INFO : El producto con id:MLA898898561 titulo: Repetidor, Router, Sistema Wi-fi Mesh Linksys Velop Wifi Intelligent Mesh  Blanco 100v/240v categoria_id: MLA430901 precio: 17999
-2021-03-10 10:37:17,544 : INFO : El producto con id:MLA870594510 titulo: Access Point, Router Linksys Max-stream Ea7300  Negro 100v/240v categoria_id: MLA430901 precio: 17999
-2021-03-10 10:37:17,544 : INFO : El producto con id:MLA884735971 titulo: Impresora Multifunción Lexmark Mb2442adwe Con Wifi 220v Gris Y Blanca categoria_id: MLA1676 precio: 46999
-2021-03-10 10:37:17,544 : INFO : El producto con id:MLA876794922 titulo: Impresora Multifunción Lexmark Mb2546adwe Con Wifi 220v Gris Y Blanca categoria_id: MLA1676 precio: 57999
-2021-03-10 10:37:17,544 : INFO : El producto con id:MLA907606600 titulo: Impresora Lexmark B2338dw Con Wifi 220v Gris Y Blanca categoria_id: MLA1676 precio: 22999
-2021-03-10 10:37:17,544 : INFO : El producto con id:MLA838441150 titulo: Servidor Poweredge Dell T40 Xeon E3-2224 16gb 1tb Hd Gtia categoria_id: MLA1649 precio: 118999
-2021-03-10 10:37:17,545 : INFO : El producto con id:MLA906671838 titulo: Notebook Dell Inspiron Amd Ryzen 5 16gb 256ssd + 1tb Win10 categoria_id: MLA1652 precio: 104999
-2021-03-10 10:37:17,545 : INFO : El producto con id:MLA665986505 titulo: Servidor Dell T140 Xeon E3-2124 16gb 2tb Reemplazo T130 categoria_id: MLA1649 precio: 172698.9
-2021-03-10 10:37:17,545 : INFO : El producto con id:MLA604049998 titulo: Ups Apc Easy Bv650i-ar 650va Gtia Oficial 2 Años Bv650 categoria_id: MLA1720 precio: 7099
-2021-03-10 10:37:17,545 : INFO : El producto con id:MLA679000346 titulo: Ups Apc 800va 4t Estabilizador Y Protector De Tension Gtia Oficial 2 Años Simil Ideal Para Uso Gamer categoria_id: MLA1720 precio: 18999
-2021-03-10 10:37:17,545 : INFO : El producto con id:MLA740540307 titulo: Servidor Poweredge Dell T40 Xeon E3-1225 8gb 1tb Hd Free Dos categoria_id: MLA1649 precio: 95999
-2021-03-10 10:37:17,545 : INFO : El producto con id:MLA837839027 titulo: Notebook Laptop Dell I7 10g 32g 256ssd + 480ssd W10 Gforce categoria_id: MLA1652 precio: 188999
-2021-03-10 10:37:17,545 : INFO : El producto con id:MLA685442693 titulo: Switch Cisco 24 Puertos Gigabit Rack 10/100/1000 categoria_id: MLA1708 precio: 22055.91
-2021-03-10 10:37:17,545 : INFO : El producto con id:MLA619999038 titulo: Ups Apc 550va 3 Tomas Gtia Oficial 2 Años Estabilizador Y Protector De Tension Con Ahorro De Energia categoria_id: MLA1720 precio: 14899
-2021-03-10 10:37:17,545 : INFO : El producto con id:MLA896718634 titulo: Servidor Poweredge Dell T40 Xeon E3-2224 16gb 2tb Hd Gtia categoria_id: MLA1649 precio: 129999
-2021-03-10 10:37:17,545 : INFO : El producto con id:MLA696010903 titulo: Ups Apc Src2ki-ar 2000va Online Tower Src2ki categoria_id: MLA1720 precio: 61599
-2021-03-10 10:37:17,545 : INFO : El producto con id:MLA614718493 titulo: Ups Apc Bx1100ci Para Tv, Play, Audio, 6 Tomas Estabilizador categoria_id: MLA1720 precio: 27599
-2021-03-10 10:37:17,545 : INFO : El producto con id:MLA862050665 titulo: Servidor Poweredge Dell T40 Intel E3-2224 16gb 1tb Hd Cuotas categoria_id: MLA1649 precio: 149999
-2021-03-10 10:37:17,545 : INFO : El producto con id:MLA814217735 titulo: Servidor Dell T140 Xeon E3-2124 32gb 4tb Reemplazo T130 categoria_id: MLA1649 precio: 232098.9
-2021-03-10 10:37:17,545 : INFO : El producto con id:MLA673439018 titulo: Notebook Laptop Dell Inspiron I3 8gb 1tb 15,6 Fhd Ubuntu Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B categoria_id: MLA1652 precio: 78999
-2021-03-10 10:37:17,545 : INFO : El producto con id:MLA673321805 titulo: Ups Apc 1500va Estabilizador Y Protector De Tension - Alto Rendimiento Para Pc De Hogar Y Oficina Gtia 2años categoria_id: MLA1720 precio: 62499
-2021-03-10 10:37:17,545 : INFO : El producto con id:MLA614270244 titulo: Ups Apc 1000va Para Pc Gamer Simil Bx1100 Bv1000i-ar Estabilizador Y Protector De Tension Gtia Oficial 2 Años categoria_id: MLA1720 precio: 22299
-2021-03-10 10:37:17,545 : INFO : El producto con id:MLA678026676 titulo: Switch Cisco 24 Puertos 10/100 Rackeable No Adm Para Hogar Y Empresa - Garantia Oficial - Factura A Y B categoria_id: MLA1708 precio: 8980.91
-2021-03-10 10:37:17,545 : INFO : El producto con id:MLA910713865 titulo: Pc Dell I3 4gb 1tb Windows 10 Pro Vostro Gtia Oficial categoria_id: MLA1649 precio: 97395.9
-2021-03-10 10:37:17,545 : INFO : El producto con id:MLA696009826 titulo: Ups Apc 1000va Online Tower Gtia 2 Años categoria_id: MLA1720 precio: 30999
-2021-03-10 10:37:17,545 : INFO : El producto con id:MLA910712440 titulo: Pc Dell I3 4gb 1tb Windows 10 Pro Vostro Gtia Oficial categoria_id: MLA1649 precio: 76464.9
-2021-03-10 10:37:17,545 : INFO : El producto con id:MLA604317175 titulo: Ups Apc 800va 6 Tomas Estabilizador Y Protector De Tension Gtia Oficial De 2 Años Para Gamer Bx800 Para Tv, Play categoria_id: MLA1720 precio: 21999
-2021-03-10 10:37:17,545 : INFO : El producto con id:MLA800415301 titulo: Servidor Dell T140 Xeon E3-2124 16gb 2tb Reemplazo T130 categoria_id: MLA1649 precio: 219998.9
-2021-03-10 10:37:17,545 : INFO : El producto con id:MLA701423768 titulo: Switch Cisco 8 Puertos Port 10/100/1000 Giga Sg100 Oferta Para Hogar Y Empresa - Garantia Oficial - Factura A Y B categoria_id: MLA1708 precio: 6171.91
-2021-03-10 10:37:17,545 : INFO : El producto con id:MLA685442543 titulo: Switch Cisco Sg110-24 24 Puertos Gigabit Rack (ex. Sg100-24) categoria_id: MLA1708 precio: 24971.91
-2021-03-10 10:37:17,545 : INFO : El producto con id:MLA675284743 titulo: Router Cisco Rv160-k9-ar Cisco Rv160 Vpn Smb categoria_id: MLA430901 precio: 15755.91
-2021-03-10 10:37:17,545 : INFO : El producto con id:MLA663213659 titulo: Notebook Laptop Dell Vostro I5 8gb 1tb 14 Win 10pro Teclado Con Ñ Gtia De Tienda Oficial - Factura A / B categoria_id: MLA1652 precio: 113999
-2021-03-10 10:37:17,545 : INFO : El producto con id:MLA614270271 titulo: Estabilizador Ups Apc 900va Con Garantia Oficial Para Tv, Play, Equipos De Audio Y Pc Con Ahorro De Energia categoria_id: MLA1720 precio: 35299
-2021-03-10 10:37:17,545 : INFO : El producto con id:MLA714624323 titulo: Switch 24p Cisco Sg350-28 10/100/1000 Sg350-28-k9 categoria_id: MLA1708 precio: 62554.91
-2021-03-10 10:37:17,545 : INFO : El producto con id:MLA835811366 titulo: Switch Cisco Sg220-26 Gigabit Administrable + 2 Sfp categoria_id: MLA1708 precio: 28466.91
-2021-03-10 10:37:17,546 : INFO : El producto con id:MLA835812799 titulo: Switch Cisco Sg220-26p Smart Plus 26 Puertos Giga Poe Admin categoria_id: MLA1708 precio: 58435.91
-2021-03-10 10:37:17,546 : INFO : El producto con id:MLA835614791 titulo: Sf250-48-k9-ar Switch 48p Cisco Sf250-48 10/100 Rack categoria_id: MLA1708 precio: 42124.91
-2021-03-10 10:37:17,546 : INFO : El producto con id:MLA609714711 titulo: Ups Apc Back-ups Pro 550va 230 Estabilizador Y Protector De Tensión Con Ahorro De Energia Gtia Oficial Br550 categoria_id: MLA1720 precio: 24799
-2021-03-10 10:37:17,546 : INFO : El producto con id:MLA609550688 titulo: Ups Apc Easy 500va Estabilizador Y Protector De Tension Con Ahorro De Energia Gtia Oficial 2 Años categoria_id: MLA1720 precio: 11599
-2021-03-10 10:37:17,546 : INFO : El producto con id:MLA609115444 titulo: Ups Apc De Alto Rendimiento 1200va Estabilizador Y Protector De Tension Garantía Oficial De 2 Años Ups categoria_id: MLA1720 precio: 49799
-2021-03-10 10:37:17,546 : INFO : El producto con id:MLA714578081 titulo: Switch 24p Cisco Sg250-26 Giga 10/100/1000 Sg250-26-k9 categoria_id: MLA1708 precio: 35998.91
-2021-03-10 10:37:17,546 : INFO : El producto con id:MLA791968195 titulo: Escaner Kodak S2040 Alta Velocidad 600dpi Duplex 5000 X Dia categoria_id: MLA72721 precio: 81273.94
-2021-03-10 10:37:17,546 : INFO : El producto con id:MLA692519735 titulo: Switch Cisco Sf110d-05 5 Puertos 10/100 Sf110 (ex Sf100d-05) categoria_id: MLA1708 precio: 4325.99
-2021-03-10 10:37:17,546 : INFO : El producto con id:MLA835872727 titulo: Switch Cisco Sf220-24p Adm 24 Puertos Poe + 2 Giga + 2 Sfp categoria_id: MLA1708 precio: 59555.94
-2021-03-10 10:37:17,546 : INFO : El producto con id:MLA881142768 titulo: Notebook Laptop Dell Vostro I5 16gb 1tb + 240ssd 14 Win categoria_id: MLA1652 precio: 127799
+2021-03-10 10:41:56,587 : INFO : El producto con id:MLA863267784 titulo: Monitor Dell P2018h Led 20  Negro 100v/240v categoria_id: MLA14407 precio: 37999
+2021-03-10 10:41:56,587 : INFO : El producto con id:MLA843116615 titulo: Monitor Dell P2419h Led 24  Negro 100v/240v categoria_id: MLA14407 precio: 38499
+2021-03-10 10:41:56,587 : INFO : El producto con id:MLA906171057 titulo: Router Linksys Ea-series Ea6100  Negro 100v/240v categoria_id: MLA430901 precio: 9170
+2021-03-10 10:41:56,587 : INFO : El producto con id:MLA884736096 titulo: Router Cisco Rv Series Rv340  Negro 100v/240v categoria_id: MLA430901 precio: 37199
+2021-03-10 10:41:56,587 : INFO : El producto con id:MLA884735636 titulo: Router Cisco Rv Series Rv345  Negro 100v/240v categoria_id: MLA430901 precio: 47499
+2021-03-10 10:41:56,588 : INFO : El producto con id:MLA898898561 titulo: Repetidor, Router, Sistema Wi-fi Mesh Linksys Velop Wifi Intelligent Mesh  Blanco 100v/240v categoria_id: MLA430901 precio: 17999
+2021-03-10 10:41:56,588 : INFO : El producto con id:MLA870594510 titulo: Access Point, Router Linksys Max-stream Ea7300  Negro 100v/240v categoria_id: MLA430901 precio: 17999
+2021-03-10 10:41:56,588 : INFO : El producto con id:MLA884735971 titulo: Impresora Multifunción Lexmark Mb2442adwe Con Wifi 220v Gris Y Blanca categoria_id: MLA1676 precio: 46999
+2021-03-10 10:41:56,588 : INFO : El producto con id:MLA876794922 titulo: Impresora Multifunción Lexmark Mb2546adwe Con Wifi 220v Gris Y Blanca categoria_id: MLA1676 precio: 57999
+2021-03-10 10:41:56,588 : INFO : El producto con id:MLA907606600 titulo: Impresora Lexmark B2338dw Con Wifi 220v Gris Y Blanca categoria_id: MLA1676 precio: 22999
+2021-03-10 10:41:56,588 : INFO : El producto con id:MLA838441150 titulo: Servidor Poweredge Dell T40 Xeon E3-2224 16gb 1tb Hd Gtia categoria_id: MLA1649 precio: 118999
+2021-03-10 10:41:56,588 : INFO : El producto con id:MLA906671838 titulo: Notebook Dell Inspiron Amd Ryzen 5 16gb 256ssd + 1tb Win10 categoria_id: MLA1652 precio: 104999
+2021-03-10 10:41:56,588 : INFO : El producto con id:MLA665986505 titulo: Servidor Dell T140 Xeon E3-2124 16gb 2tb Reemplazo T130 categoria_id: MLA1649 precio: 172698.9
+2021-03-10 10:41:56,588 : INFO : El producto con id:MLA604049998 titulo: Ups Apc Easy Bv650i-ar 650va Gtia Oficial 2 Años Bv650 categoria_id: MLA1720 precio: 7099
+2021-03-10 10:41:56,588 : INFO : El producto con id:MLA679000346 titulo: Ups Apc 800va 4t Estabilizador Y Protector De Tension Gtia Oficial 2 Años Simil Ideal Para Uso Gamer categoria_id: MLA1720 precio: 18999
+2021-03-10 10:41:56,588 : INFO : El producto con id:MLA740540307 titulo: Servidor Poweredge Dell T40 Xeon E3-1225 8gb 1tb Hd Free Dos categoria_id: MLA1649 precio: 95999
+2021-03-10 10:41:56,588 : INFO : El producto con id:MLA837839027 titulo: Notebook Laptop Dell I7 10g 32g 256ssd + 480ssd W10 Gforce categoria_id: MLA1652 precio: 188999
+2021-03-10 10:41:56,588 : INFO : El producto con id:MLA685442693 titulo: Switch Cisco 24 Puertos Gigabit Rack 10/100/1000 categoria_id: MLA1708 precio: 22055.91
+2021-03-10 10:41:56,588 : INFO : El producto con id:MLA619999038 titulo: Ups Apc 550va 3 Tomas Gtia Oficial 2 Años Estabilizador Y Protector De Tension Con Ahorro De Energia categoria_id: MLA1720 precio: 14899
+2021-03-10 10:41:56,588 : INFO : El producto con id:MLA896718634 titulo: Servidor Poweredge Dell T40 Xeon E3-2224 16gb 2tb Hd Gtia categoria_id: MLA1649 precio: 129999
+2021-03-10 10:41:56,588 : INFO : El producto con id:MLA614718493 titulo: Ups Apc Bx1100ci Para Tv, Play, Audio, 6 Tomas Estabilizador categoria_id: MLA1720 precio: 27599
+2021-03-10 10:41:56,588 : INFO : El producto con id:MLA696010903 titulo: Ups Apc Src2ki-ar 2000va Online Tower Src2ki categoria_id: MLA1720 precio: 61599
+2021-03-10 10:41:56,588 : INFO : El producto con id:MLA862050665 titulo: Servidor Poweredge Dell T40 Intel E3-2224 16gb 1tb Hd Cuotas categoria_id: MLA1649 precio: 149999
+2021-03-10 10:41:56,588 : INFO : El producto con id:MLA910713865 titulo: Pc Dell I3 4gb 1tb Windows 10 Pro Vostro Gtia Oficial categoria_id: MLA1649 precio: 97395.9
+2021-03-10 10:41:56,588 : INFO : El producto con id:MLA673439018 titulo: Notebook Laptop Dell Inspiron I3 8gb 1tb 15,6 Fhd Ubuntu Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B categoria_id: MLA1652 precio: 78999
+2021-03-10 10:41:56,588 : INFO : El producto con id:MLA673321805 titulo: Ups Apc 1500va Estabilizador Y Protector De Tension - Alto Rendimiento Para Pc De Hogar Y Oficina Gtia 2años categoria_id: MLA1720 precio: 62499
+2021-03-10 10:41:56,588 : INFO : El producto con id:MLA678026676 titulo: Switch Cisco 24 Puertos 10/100 Rackeable No Adm Para Hogar Y Empresa - Garantia Oficial - Factura A Y B categoria_id: MLA1708 precio: 8980.91
+2021-03-10 10:41:56,588 : INFO : El producto con id:MLA614270244 titulo: Ups Apc 1000va Para Pc Gamer Simil Bx1100 Bv1000i-ar Estabilizador Y Protector De Tension Gtia Oficial 2 Años categoria_id: MLA1720 precio: 22299
+2021-03-10 10:41:56,589 : INFO : El producto con id:MLA814217735 titulo: Servidor Dell T140 Xeon E3-2124 32gb 4tb Reemplazo T130 categoria_id: MLA1649 precio: 232098.9
+2021-03-10 10:41:56,589 : INFO : El producto con id:MLA696009826 titulo: Ups Apc 1000va Online Tower Gtia 2 Años categoria_id: MLA1720 precio: 30999
+2021-03-10 10:41:56,589 : INFO : El producto con id:MLA910712440 titulo: Pc Dell I3 4gb 1tb Windows 10 Pro Vostro Gtia Oficial categoria_id: MLA1649 precio: 76464.9
+2021-03-10 10:41:56,589 : INFO : El producto con id:MLA604317175 titulo: Ups Apc 800va 6 Tomas Estabilizador Y Protector De Tension Gtia Oficial De 2 Años Para Gamer Bx800 Para Tv, Play categoria_id: MLA1720 precio: 21999
+2021-03-10 10:41:56,589 : INFO : El producto con id:MLA800415301 titulo: Servidor Dell T140 Xeon E3-2124 16gb 2tb Reemplazo T130 categoria_id: MLA1649 precio: 219998.9
+2021-03-10 10:41:56,589 : INFO : El producto con id:MLA701423768 titulo: Switch Cisco 8 Puertos Port 10/100/1000 Giga Sg100 Oferta Para Hogar Y Empresa - Garantia Oficial - Factura A Y B categoria_id: MLA1708 precio: 6171.91
+2021-03-10 10:41:56,589 : INFO : El producto con id:MLA675284743 titulo: Router Cisco Rv160-k9-ar Cisco Rv160 Vpn Smb categoria_id: MLA430901 precio: 15755.91
+2021-03-10 10:41:56,589 : INFO : El producto con id:MLA685442543 titulo: Switch Cisco Sg110-24 24 Puertos Gigabit Rack (ex. Sg100-24) categoria_id: MLA1708 precio: 24971.91
+2021-03-10 10:41:56,589 : INFO : El producto con id:MLA663213659 titulo: Notebook Laptop Dell Vostro I5 8gb 1tb 14 Win 10pro Teclado Con Ñ Gtia De Tienda Oficial - Factura A / B categoria_id: MLA1652 precio: 113999
+2021-03-10 10:41:56,589 : INFO : El producto con id:MLA835614791 titulo: Sf250-48-k9-ar Switch 48p Cisco Sf250-48 10/100 Rack categoria_id: MLA1708 precio: 42124.91
+2021-03-10 10:41:56,589 : INFO : El producto con id:MLA835811366 titulo: Switch Cisco Sg220-26 Gigabit Administrable + 2 Sfp categoria_id: MLA1708 precio: 28466.91
+2021-03-10 10:41:56,589 : INFO : El producto con id:MLA835812799 titulo: Switch Cisco Sg220-26p Smart Plus 26 Puertos Giga Poe Admin categoria_id: MLA1708 precio: 58435.91
+2021-03-10 10:41:56,589 : INFO : El producto con id:MLA614270271 titulo: Estabilizador Ups Apc 900va Con Garantia Oficial Para Tv, Play, Equipos De Audio Y Pc Con Ahorro De Energia categoria_id: MLA1720 precio: 35299
+2021-03-10 10:41:56,589 : INFO : El producto con id:MLA609115444 titulo: Ups Apc De Alto Rendimiento 1200va Estabilizador Y Protector De Tension Garantía Oficial De 2 Años Ups categoria_id: MLA1720 precio: 49799
+2021-03-10 10:41:56,589 : INFO : El producto con id:MLA714624323 titulo: Switch 24p Cisco Sg350-28 10/100/1000 Sg350-28-k9 categoria_id: MLA1708 precio: 62554.91
+2021-03-10 10:41:56,589 : INFO : El producto con id:MLA609714711 titulo: Ups Apc Back-ups Pro 550va 230 Estabilizador Y Protector De Tensión Con Ahorro De Energia Gtia Oficial Br550 categoria_id: MLA1720 precio: 24799
+2021-03-10 10:41:56,589 : INFO : El producto con id:MLA609550688 titulo: Ups Apc Easy 500va Estabilizador Y Protector De Tension Con Ahorro De Energia Gtia Oficial 2 Años categoria_id: MLA1720 precio: 11599
+2021-03-10 10:41:56,589 : INFO : El producto con id:MLA791968195 titulo: Escaner Kodak S2040 Alta Velocidad 600dpi Duplex 5000 X Dia categoria_id: MLA72721 precio: 81273.94
+2021-03-10 10:41:56,589 : INFO : El producto con id:MLA714578081 titulo: Switch 24p Cisco Sg250-26 Giga 10/100/1000 Sg250-26-k9 categoria_id: MLA1708 precio: 35998.91
+2021-03-10 10:41:56,589 : INFO : El producto con id:MLA692519735 titulo: Switch Cisco Sf110d-05 5 Puertos 10/100 Sf110 (ex Sf100d-05) categoria_id: MLA1708 precio: 4325.99
+2021-03-10 10:41:56,589 : INFO : El producto con id:MLA835872727 titulo: Switch Cisco Sf220-24p Adm 24 Puertos Poe + 2 Giga + 2 Sfp categoria_id: MLA1708 precio: 59555.94
+2021-03-10 10:41:56,589 : INFO : El producto con id:MLA714545399 titulo: Switch Cisco Semi Admin 24 Puertos 10/100 2 Giga Sf220-24-k9 categoria_id: MLA1708 precio: 19383.91
